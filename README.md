@@ -1,4 +1,4 @@
-### Hi there 👋
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&background=46FFE400&random=true&width=435&lines=%EC%8B%AC%EB%82%A0%EB%91%90+%EA%B9%83%ED%97%88%EB%B8%8C)](https://git.io/typing-svg)
 
 <!--
 **20171193/20171193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
