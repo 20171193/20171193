@@ -3,4 +3,4 @@
 
 [<img src="https://img.shields.io/badge/Android-61DAFB?style=flat&logo=Android&logoColor=white"/>]
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=20171193)](https://solved.ac/20171193)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jc9746)](https://solved.ac/20171193)<br/>
