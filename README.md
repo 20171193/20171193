@@ -2,3 +2,4 @@
 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jc9746)](https://solved.ac/20171193)
+![StaticBadge](<img src="https://img.shields.io/badge/Android-61DAFB?style=flat&logo=Android&logoColor=white"/>)
